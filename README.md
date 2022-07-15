@@ -6,7 +6,7 @@
 * Linear Regression
 * Logistic regression
 * Calculus
-** Algorithms**
+* Algorithms*
 * Gradient descent
 * Stochastic
 * Batch size and MSE
